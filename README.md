@@ -4,7 +4,7 @@
 
 ## **Introduction**
 
-Decision and Selection Control (DSC) is the backbone of basic programming, based primarily on _if-else_ conditions. In this guide, you'll learn how to tackle four classic programming problems **using only conditions (i.e., without any loops)**. We'll explain the logic, discuss why each technique works, and provide clean, well-commented Java code for each case.
+Decision and Selection Control (DSC) is the backbone of basic programming, based primarily on _if-else_ conditions. In this guide, you'll learn how to tackle four classic programming problems **using only conditions (i.e., without any loops)**. I'll explain the logic, discuss why each technique works, and provide clean, well-commented Java code for each case.
 
 These strategies are not just about coding, but also about thinking logically, analyzing constraints, and understanding the power and limitations of conditionals.
 
